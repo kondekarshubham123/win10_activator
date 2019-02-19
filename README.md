@@ -8,6 +8,6 @@ we can run that .bat script and use Microsoft windows free
 
 # Steps to run file
 -----------------------------------------------------------------------------------------------------------------------------------
-Download or clone given .bat code 
-Run code as adminastrator Over Your microsoft wndows aactivated sucessfully.
+-Download or clone given .bat code 
+-Run code as adminastrator Over Your microsoft wndows aactivated sucessfully.
 
